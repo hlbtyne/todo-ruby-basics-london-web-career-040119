@@ -20,7 +20,8 @@ return "Nice"
 end
 
 def last_evaluated_value
-
+  puts "novice"
+  "expert"
 end
 
 def pizza_party(topping = "cheese")
